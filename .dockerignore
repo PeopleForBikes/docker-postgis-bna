@@ -1,2 +1,5 @@
-Dockerfile
 .git
+.github
+Dockerfile
+LICENSE
+README.md
