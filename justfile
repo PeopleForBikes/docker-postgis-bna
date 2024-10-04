@@ -21,4 +21,4 @@ fmt-md:
 
 # Build the Docker image for local usage.
 docker-build:
-    docker buildx build -t peopleforbikes/postgis-bna:local .
+    docker buildx build -t ghcr.io/peopleforbikes/docker-postgis-bna:local  --load .
