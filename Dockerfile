@@ -1,4 +1,4 @@
-FROM postgis/postgis:17-3.4
+FROM postgis/postgis:18-3.6
 LABEL author="PeopleForBikes" \
   maintainer="BNA Mechanics - https://peopleforbikes.github.io" \
   org.opencontainers.image.description="PostGIS w/ tools and extensions necessary to run the BNA." \
